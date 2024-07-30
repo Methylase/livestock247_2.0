@@ -1,7 +1,7 @@
 <?php
 class Login extends Trongate {
     private $blog_user = 'blogger_admin';
-    private $password = 'Passme@+++'; //where to go after login
+    private $password = ''; //where to go after login
     /**
      * Initializes the Trongate_user_levels class.
      */
